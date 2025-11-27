@@ -24,13 +24,13 @@ repository               : "yiwei80-bit/yiwei80-bit.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yiwei Tang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shanghai"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ywtang22@m.fudan.edu.cn" 
 
   # Academic websites
   academia         : # URL
