@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-Personal website of my husband, Gao Chen: https://faculty.ustc.edu.cn/chengao
+Personal website of my husband, Gao Chen: [Gao Chen's website](https://faculty.ustc.edu.cn/chengao)
+
