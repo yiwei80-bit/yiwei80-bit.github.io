@@ -9,4 +9,5 @@ venue: "Statistica Sinica (major revision)"
 paperurl: "https://arxiv.org/abs/2411.13822"
 ---
 
+**Authors:** Tang, Y., Wang, H. J., and Li, D.
 This paper develops high-dimensional extreme quantile regression methodology with theoretical properties and practical applicability. Currently under major revision at *Statistica Sinica*.
