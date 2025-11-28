@@ -30,7 +30,8 @@ Advisor: Prof. Judy Huixia Wang
 
 ---
 
-## PUBLICATION LIST AND WORK IN PROGRESS
+PUBLICATION LIST AND WORK IN PROGRESS
+======
 
 1. **Tang, Y., Wang, H. J., and Li, D.**  
    *High-Dimensional Extreme Quantile Regression.*  
