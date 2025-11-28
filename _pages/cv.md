@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
+## EDUCATION
+
 
 **Zhejiang University (Undergraduate)**  
 *School of Mathematical Science, major in Information and Computation Science*  
@@ -30,8 +30,8 @@ Advisor: Prof. Judy Huixia Wang
 
 ---
 
-PUBLICATION LIST AND WORK IN PROGRESS
-======
+## PUBLICATION LIST AND WORK IN PROGRESS
+
 
 1. **Tang, Y., Wang, H. J., and Li, D.**  
    *High-Dimensional Extreme Quantile Regression.*  
@@ -55,8 +55,8 @@ PUBLICATION LIST AND WORK IN PROGRESS
 
 ---
 
-CONFERENCE TALKS
-======
+## CONFERENCE TALKS
+
 
 1. **High-Dimensional Extreme Quantile Regression**  
    9th Symposium on High-Dimensional Data Statistics, Chinese Association for Applied Statistics  
@@ -68,8 +68,8 @@ CONFERENCE TALKS
 
 ---
 
-TEACHING
-======
+## TEACHING
+
 
 1. *Stochastic Process* – Undergraduate course, Fudan University  
    Teaching Assistant
