@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## EDUCATION
+EDUCATION
+======
 
 **Zhejiang University (Undergraduate)**  
 *School of Mathematical Science, major in Information and Computation Science*  
@@ -53,7 +54,8 @@ Advisor: Prof. Judy Huixia Wang
 
 ---
 
-## CONFERENCE TALKS
+CONFERENCE TALKS
+======
 
 1. **High-Dimensional Extreme Quantile Regression**  
    9th Symposium on High-Dimensional Data Statistics, Chinese Association for Applied Statistics  
