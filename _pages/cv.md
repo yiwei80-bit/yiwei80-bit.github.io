@@ -12,18 +12,18 @@ redirect_from:
 EDUCATION
 ======
 
-**Zhejiang University (Undergraduate)**  
+*Zhejiang University (Undergraduate)**  
 *School of Mathematical Science, major in Information and Computation Science*  
 Hangzhou, China | Sep 2016 – June 2020  
 - **Scholarship:** National Scholarship, First Prize Scholarship
 
-**Fudan University (Master, Doctoral Candidate)**  
+*Fudan University (Master, Doctoral Candidate)**  
 *School of Management, Statistics and Data Science Department, major in Statistics*  
 Shanghai, China | Sep 2020 – present  
 - **Scholarship:** First Prize Scholarship, Fudan Hongxin Scholarship  
 Advisor: Prof. Devyan Li
 
-**George Washington University (Joint PhD Training Program)**  
+*George Washington University (Joint PhD Training Program)**  
 *Columbian College of Arts & Sciences, Department of Statistics*  
 Washington, DC | Nov 2023 – Nov 2024  
 Advisor: Prof. Judy Huixia Wang
