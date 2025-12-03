@@ -84,7 +84,9 @@ Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-j
    Teaching Assistant (Outstanding Teaching Assistant Award)
 
 ## Professional Service
+  
   Referee for *Journal of the American Statistical Association (JASA)*
+  
   Referee for *Statistica Sinica*
 
 
