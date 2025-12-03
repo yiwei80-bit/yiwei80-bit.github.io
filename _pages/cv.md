@@ -20,8 +20,9 @@ Hangzhou, China | Sep 2016 – June 2020
 **Fudan University (Master, Doctoral Candidate)**  
 *School of Management, Statistics and Data Science Department, major in Statistics*  
 Shanghai, China | Sep 2020 – present  
-- **Scholarship:** First Prize Scholarship, Fudan Hongxin Scholarship  
 Advisor: Prof. Devyan Li
+- **Scholarship:** First Prize Scholarship, Fudan Hongxin Scholarship  
+
 
 **George Washington University (Joint PhD Training Program)**  
 *Columbian College of Arts & Sciences, Department of Statistics*  
