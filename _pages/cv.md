@@ -83,7 +83,7 @@ Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-j
 4. *Data, Model, and Decision* – MBA course, Fudan University  
    Teaching Assistant (Outstanding Teaching Assistant Award)
 
-## Professional Service
+## PROFESSIONAL SERVICE
   
   Referee for *Journal of the American Statistical Association (JASA)*
   
