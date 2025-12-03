@@ -13,7 +13,7 @@ redirect_from:
 
 
 **Zhejiang University (Undergraduate)**  
-*School of Mathematical Science, major in Information and Computation Science*  
+*School of Mathematical Science, major in Information and Computational Science*  
 Hangzhou, China | Sep 2016 – June 2020  
 - **Scholarship:** National Scholarship, First Prize Scholarship
 
