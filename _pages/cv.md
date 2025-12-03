@@ -20,14 +20,14 @@ Hangzhou, China | Sep 2016 – June 2020
 **Fudan University (Master, Doctoral Candidate)**  
 *School of Management, Statistics and Data Science Department, major in Statistics*  
 Shanghai, China | Sep 2020 – present  
-Advisor: Prof. Deyuan Li
+Advisor: [**Prof. Deyuan Li**](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012068)
 - **Scholarship:** First Prize Scholarship, Fudan Hongxin Scholarship  
 
 
 **George Washington University (Joint PhD Training Program)**  
 *Columbian College of Arts & Sciences, Department of Statistics*  
 Washington, DC | Nov 2023 – Nov 2024  
-Advisor: Prof. Judy Huixia Wang
+Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-judy-wang)
 
 ---
 
