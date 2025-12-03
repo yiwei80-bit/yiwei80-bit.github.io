@@ -24,7 +24,7 @@ Advisor: [**Prof. Deyuan Li**](https://www.fdsm.fudan.edu.cn/en/teacher-info.htm
 - **Scholarship:** First Prize Scholarship, Fudan Hongxin Scholarship  
 
 
-**George Washington University (Joint PhD Training Program)**  
+**George Washington University (Joint Ph.D. Training Program)**  
 *Columbian College of Arts & Sciences, Department of Statistics*  
 Washington, DC | Nov 2023 – Nov 2024  
 Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-judy-wang)
