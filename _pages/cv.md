@@ -42,14 +42,14 @@ Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-j
    _Annual Review of Statistics and Its Application_, Vol. 13, to appear.
 
 3. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
-   *Perturbation-based Inference for Extreme Value Index.*  
+   [**Perturbation-based Inference for Extreme Value Index.**](http://arxiv.org/abs/2512.08258)
    In preparation.
 
-4. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
+5. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
    *High-Dimensional Extreme Quantile Regression with Weibull-type Tails.*  
    In preparation.
 
-5. **Yiwei Tang** (Translator of Chapters 9–10).  
+6. **Yiwei Tang** (Translator of Chapters 9–10).  
    *Causal Inference in Statistics, Social, and Biomedical Sciences: An Introduction* (Chinese Edition).  
    Truth & Wisdom Press, 2025.
 
