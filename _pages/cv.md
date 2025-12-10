@@ -43,7 +43,6 @@ Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-j
 
 3. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
    [**Perturbation-based Inference for Extreme Value Index.**](http://arxiv.org/abs/2512.08258)
-   In preparation.
 
 5. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
    *High-Dimensional Extreme Quantile Regression with Weibull-type Tails.*  
