@@ -35,7 +35,7 @@ Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-j
 
 1. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
    [**High-Dimensional Extreme Quantile Regression.**](https://arxiv.org/abs/2411.13822)  
-   _Statistica Sinica_, major revision.
+   _Statistica Sinica_, to appear.
 
 2. **Yiwei Tang**, Junyu Chen, Deyuan Li, Judy Huixia Wang.  
    *Recent Advances in Conditional Extreme Quantile Analysis.*  
