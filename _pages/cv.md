@@ -33,21 +33,21 @@ Advisor: [**Prof. Huixia Judy Wang**](https://profiles.rice.edu/faculty/huixia-j
 
 ## PUBLICATION LIST AND WORK IN PROGRESS
 
-1. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
+1. **Yiwei Tang**, Huixia Judy Wang, Deyuan Li.  
    [**High-Dimensional Extreme Quantile Regression.**](https://arxiv.org/abs/2411.13822)  
    _Statistica Sinica_. Forthcoming.  
    DOI: 10.5705/ss.202025.0044.
 
-2. **Yiwei Tang**, Junyu Chen, Deyuan Li, Judy Huixia Wang.  
+2. **Yiwei Tang**, Junyu Chen, Deyuan Li, Huixia Judy Wang.  
    *Recent Advances in Conditional Extreme Quantile Analysis.*  
    _Annual Review of Statistics and Its Application_, **13** (April 2026).  
    DOI: 10.1146/annurev-statistics-042324-014139.
 
-3. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
+3. **Yiwei Tang**, Huixia Judy Wang, Deyuan Li.  
    [**Perturbation-based Inference for Extreme Value Index.**](http://arxiv.org/abs/2512.08258)  
    Submitted.
 
-4. **Yiwei Tang**, Judy Huixia Wang, Deyuan Li.  
+4. **Yiwei Tang**, Huixia Judy Wang, Deyuan Li.  
    *High-Dimensional Extreme Quantile Regression with Weibull-type Tails.*  
    In preparation.
 
