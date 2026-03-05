@@ -27,7 +27,7 @@ Advisor: [**Prof. Deyuan Li**](https://www.fdsm.fudan.edu.cn/en/teacher-info.htm
 **George Washington University (Joint Ph.D. Training Program)**  
 *Columbian College of Arts & Sciences, Department of Statistics*  
 Washington, DC | Nov 2023 – Nov 2024  
-Advisor: [**Prof. Judy Huixia Wang**](https://profiles.rice.edu/faculty/huixia-judy-wang)
+Advisor: [**Prof. Huixia Judy Wang**](https://profiles.rice.edu/faculty/huixia-judy-wang)
 
 ---
 
