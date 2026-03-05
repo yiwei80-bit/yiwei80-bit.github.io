@@ -8,5 +8,5 @@ redirect_from:
 
 
 I am Yiwei Tang, a researcher in statistics and machine learning. 
-My work focuses on extreme value theory, high-dimensional statistics, quantile regression, and differential privacy. 
+My work focuses on extreme value statistics, high-dimensional statistics, quantile regression, and differential privacy. 
 I am currently a PhD candidate in the Department of Statistics and Data Science at Fudan University.
