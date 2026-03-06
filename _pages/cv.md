@@ -20,7 +20,7 @@ Hangzhou, China | Sep 2016 – June 2020
 **Fudan University (Integrated Master’s–Ph.D. program)**  
 *School of Management, Department of Statistics and Data Science, major in Statistics*  
 Shanghai, China | Sep 2020 – present  
-Advisor: [**Prof. Deyuan Li**](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012068)
+Advisor: [**Prof. Deyuan Li**](https://www.fdsm.fudan.edu.cn/en/2025/1106/c1048a24471/page.htm)
 - **Scholarship:** First Prize Scholarship, Fudan Hongxin Scholarship  
 
 
