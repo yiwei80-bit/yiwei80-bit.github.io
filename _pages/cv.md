@@ -39,8 +39,8 @@ Advisor: [**Prof. Huixia Judy Wang**](https://profiles.rice.edu/faculty/huixia-j
    DOI: 10.5705/ss.202025.0044.
 
 2. **Yiwei Tang**, Junyu Chen, Deyuan Li, Huixia Judy Wang.  
-   *Recent Advances in Conditional Extreme Quantile Analysis.*  
-   _Annual Review of Statistics and Its Application_, **13** (April 2026).  
+   [**Recent Advances in Conditional Extreme Quantile Analysis.**](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-042324-014139)  
+   _Annual Review of Statistics and Its Application_, **13** ,2026.  
    DOI: 10.1146/annurev-statistics-042324-014139.
 
 3. **Yiwei Tang**, Huixia Judy Wang, Deyuan Li.  
